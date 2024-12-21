@@ -10,6 +10,8 @@ The contract allows event creation, attendance tracking, and NFT minting. Each e
 
 ## Contract Address
 0x5BA30cE6c3afB68C2Ae31747C1a58988A578bc24
+![image](https://github.com/user-attachments/assets/fd012589-d713-4bda-81db-0dec419c4cce)
+
 
 ## Project Vision
 The vision of the **Proof-of-Attendance NFTs** project is to enable event organizers to engage participants in new ways, utilizing blockchain technology to issue collectible proof of attendance. These NFTs can be used as digital memorabilia, qualifications, or as part of loyalty programs. With the goal of increasing transparency, gamification, and providing real-time verifiable proof, this project empowers both attendees and event organizers.
